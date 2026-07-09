@@ -28,6 +28,7 @@
       alt="Most Used Language on Github"
     />
   </picture>
-</div>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,vue,androidstudio,arduino,ps,blender)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,java,python,vue,androidstudio,arduino,ps,blender)](https://skillicons.dev)
+  
+</div>
